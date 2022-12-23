@@ -116,5 +116,4 @@ int main(void) {
     
     //output 10 1 152 9
 
-    //end
 }
