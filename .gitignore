@@ -1,3 +1,5 @@
 *.exe
 .vscode
 *.code-workspace
+.cph/
+test.cpp
